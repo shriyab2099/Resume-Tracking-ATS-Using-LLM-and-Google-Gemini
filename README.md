@@ -26,7 +26,9 @@ Open your web browser and navigate to http://localhost:8501.
 
 ## Use the Application:
 Paste the job description into the provided text area.
+
 Upload your resume in PDF format.
+
 Click the "Submit" button to get responses from the Smart ATS.
 
 ## Contributing
