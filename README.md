@@ -11,6 +11,7 @@ cd smart-ats
 ### Create and Activate Virtual Environment:
 
 conda create -p venv python==3.10 -y
+
 conda activate venv
 
 ### Install Dependencies:
